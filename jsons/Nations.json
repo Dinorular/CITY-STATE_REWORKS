@@ -28,5 +28,25 @@
 		"outerColor": [0,0,0],
 		"innerColor": [255,216,0],
 		"cities": ["Hong Kong"],
+	},
+	
+	{
+		"name": "Akkad",
+		"adjective": ["Akkadian"],
+		"cityStateType": "Militaristic",
+
+		"outerColor": [0,0,0],
+		"innerColor": [255,0,0],
+		"cities": ["Akkad"],
+	},
+	
+	{
+		"name": "Florence",
+		"adjective": ["Latin"],
+		"cityStateType": "Cultural",
+
+		"outerColor": [0,0,0],
+		"innerColor": [139,96,255],
+		"cities": ["Florence"],
 	}
 ]
