@@ -29,6 +29,15 @@
 		"innerColor": [227,149,49],
 		"cities": ["Taipei"],
 	},
+	{
+		"name": "Singapore",
+		"adjective": ["Singaporean"],
+		"cityStateType": "Industrial",
+
+		"outerColor": [0,0,0],
+		"innerColor": [227,149,49],
+		"cities": ["Singapore"],
+	},
 	
 	{
 		"name": "Hong Kong",
@@ -38,6 +47,16 @@
 		"outerColor": [0,0,0],
 		"innerColor": [255,216,0],
 		"cities": ["Hong Kong"],
+	},
+	{
+		"name": "Timbuktu",
+		"adjective": ["Malian"],
+		"startBias": ["Desert"],
+		"cityStateType": "Mercantile",
+
+		"outerColor": [0,0,0],
+		"innerColor": [255,216,0],
+		"cities": ["Timbuktu"],
 	},
 	
 	{
