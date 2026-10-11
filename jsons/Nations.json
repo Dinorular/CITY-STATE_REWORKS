@@ -68,6 +68,16 @@
 		"innerColor": [255,0,0],
 		"cities": ["Akkad"],
 	},
+	{
+		"name": "Nassau",
+		"adjective": ["Bahamian"],
+		"startBias": ["Coast"],
+		"cityStateType": "Militaristic",
+
+		"outerColor": [0,0,0],
+		"innerColor": [255,0,0],
+		"cities": ["Nassau"],
+	},
 	
 	{
 		"name": "Florence",
@@ -77,6 +87,15 @@
 		"outerColor": [0,0,0],
 		"innerColor": [139,96,255],
 		"cities": ["Florence"],
+	},
+	{
+		"name": "Venice",
+		"adjective": ["Venetian"],
+		"cityStateType": "Cultural",
+
+		"outerColor": [0,0,0],
+		"innerColor": [139,96,255],
+		"cities": ["Venice"],
 	},
 	
 	{
