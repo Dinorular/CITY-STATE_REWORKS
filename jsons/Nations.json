@@ -9,6 +9,7 @@
 		"innerColor": [56, 255, 112],
 		"cities": ["Cahokia"],
 	},
+	
 	{
 		"name": "Taipei",
 		"adjective": ["Taiwanese"],
@@ -18,6 +19,7 @@
 		"innerColor": [227,169,89],
 		"cities": ["Taipei"],
 	},
+	
 	{
 		"name": "Hong Kong",
 		"adjective": ["Hong Kong"],
