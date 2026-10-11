@@ -51,13 +51,13 @@
 	},
 	
 	{
-		"name": "Alexandria",
-		"adjective": ["Alexandrian"],
+		"name": "Baghdad",
+		"adjective": ["Baghdad"],
 		"cityStateType": "Scientific",
 
 		"outerColor": [0,0,0],
 		"innerColor": [0,0,255],
-		"cities": ["Alexandria"],
+		"cities": ["Baghdad"],
 	},
 
 	{
