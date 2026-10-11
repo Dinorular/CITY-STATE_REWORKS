@@ -48,5 +48,25 @@
 		"outerColor": [0,0,0],
 		"innerColor": [139,96,255],
 		"cities": ["Florence"],
+	},
+	
+	{
+		"name": "Alexandria",
+		"adjective": ["Alexandrian"],
+		"cityStateType": "Scientific",
+
+		"outerColor": [0,0,0],
+		"innerColor": [0,0,255],
+		"cities": ["Alexandria"],
+	},
+
+	{
+		"name": "Jerusalem",
+		"adjective": ["Israeli"],
+		"cityStateType": "Religious",
+
+		"outerColor": [0,0,0],
+		"innerColor": [255,255,255],
+		"cities": ["Jerusalem"],
 	}
 ]
