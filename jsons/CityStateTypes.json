@@ -1,32 +1,32 @@
 [
     {
-        "name": "Free City",
+        "name": "Agrarian",
         "friendBonusUniques": [
-            "[+10]% [Happiness] [in all cities]"
+            "[+10]% [Food] [in all cities]"
         ],
         "allyBonusUniques": [
-            "[+15]% [Happiness] [in all cities]"
+            "[+15]% [Food] [in all cities]"
         ],
-        "color": [170,200,255],
+        "color": [56, 255, 112],
     },
     {
-        "name": "Mercantile State",
+        "name": "Industrial",
+        "friendBonusUniques": [
+            "[+10]% [Production] [in all cities]"
+        ],
+        "allyBonusUniques": [
+            "[+15]% [Production] [in all cities]"
+        ],
+        "color": [139,69,19]
+    },
+    {
+        "name": "Mercantile",
         "friendBonusUniques": [
             "[+10]% [Gold] [in all cities]"
         ],
         "allyBonusUniques": [
-            "[+10]% [Gold] [in all cities]"
+            "[+15]% [Gold] [in all cities]"
         ],
         "color": [255,215,0]
-    },
-    {
-        "name": "Theocratic State",
-        "friendBonusUniques": [
-            "[+10]% [Faith] [in all cities]"
-        ],
-        "allyBonusUniques": [
-            "[+10]% [Faith] [in all cities]"
-        ],
-        "color": [240,240,255]
     }
 ]
