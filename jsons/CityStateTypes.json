@@ -28,5 +28,35 @@
             "[+15]% [Gold] [in all cities]"
         ],
         "color": [255,215,0]
+    },
+    {
+        "name": "Cultural",
+        "friendBonusUniques": [
+            "[+10]% [Culture] [in all cities]"
+        ],
+        "allyBonusUniques": [
+            "[+15]% [Culture] [in all cities]"
+        ],
+        "color": [160,32,240]
+    },
+    {
+        "name": "Scientific",
+        "friendBonusUniques": [
+            "[+10]% [Science] [in all cities]"
+        ],
+        "allyBonusUniques": [
+            "[+15]% [Science] [in all cities]"
+        ],
+        "color": [0,0,255]
+    },
+    {
+        "name": "Religious",
+        "friendBonusUniques": [
+            "[+10]% [Faith] [in all cities]"
+        ],
+        "allyBonusUniques": [
+            "[+15]% [Faith] [in all cities]"
+        ],
+        "color": [255, 255, 255]
     }
 ]
