@@ -6,8 +6,18 @@
 		"cityStateType": "Agrarian",
 
 		"outerColor": [0,0,0],
-		"innerColor": [56, 255, 112],
+		"innerColor": [56,255,112],
 		"cities": ["Cahokia"],
+	},
+	{
+		"name": "Manila",
+		"adjective": ["Filipino"],
+		"startBias": ["Coast"],
+		"cityStateType": "Agrarian",
+
+		"outerColor": [0,0,0],
+		"innerColor": [56,255,112],
+		"cities": ["Manila"],
 	},
 	
 	{
