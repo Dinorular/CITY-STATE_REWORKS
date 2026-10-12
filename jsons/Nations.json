@@ -33,7 +33,7 @@
 	{
 		"name": "Damascus",
 		"adjective": ["Syrian"],
-		"startBias": ["Avoid [Tundra]"],
+		"startBias": ["Avoid [Snow]"],
 		"cityStateType": "Industrial",
 
 		"outerColor": [0,0,0],
@@ -53,11 +53,41 @@
 	{
 		"name": "Taipei",
 		"adjective": ["Taiwanese"],
-		"startBias": ["Coast"],
 		"cityStateType": "Industrial",
 
 		"outerColor": [0,0,0],
 		"innerColor": [227,149,49],
 		"cities": ["Taipei"],
+	},
+
+	{
+		"name": "Hong Kong",
+		"adjective": ["Hong Kong"],
+		"startBias": ["Flood plains"],
+		"cityStateType": "Mercantile",
+
+		"outerColor": [0,0,0],
+		"innerColor": [255,215,0],
+		"cities": ["Hong Kong"],
+	},
+	{
+		"name": "Timbuktu",
+		"adjective": ["Malian"],
+		"startBias": ["Desert"],
+		"cityStateType": "Mercantile",
+
+		"outerColor": [0,0,0],
+		"innerColor": [255,215,0],
+		"cities": ["Timbuktu"],
+	},
+	{
+		"name": "Zanzibar",
+		"adjective": ["Swahili"],
+		"startBias": ["Coast"],
+		"cityStateType": "Mercantile",
+
+		"outerColor": [0,0,0],
+		"innerColor": [255,215,0],
+		"cities": ["Zanzibar"],
 	}
 ]
