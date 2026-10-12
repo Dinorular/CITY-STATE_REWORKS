@@ -39,5 +39,25 @@
 		"outerColor": [0,0,0],
 		"innerColor": [237,149,49],
 		"cities": ["Damascus"],
+	},
+	{
+		"name": "Singapore",
+		"adjective": ["Singaporean"],
+		"startBias": ["Coast"],
+		"cityStateType": "Industrial",
+
+		"outerColor": [0,0,0],
+		"innerColor": [227,149,49],
+		"cities": ["Singapore"],
+	},
+	{
+		"name": "Taipei",
+		"adjective": ["Taiwanese"],
+		"startBias": ["Coast"],
+		"cityStateType": "Industrial",
+
+		"outerColor": [0,0,0],
+		"innerColor": [227,149,49],
+		"cities": ["Taipei"],
 	}
 ]
