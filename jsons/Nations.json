@@ -19,122 +19,25 @@
 		"innerColor": [56,255,112],
 		"cities": ["Manila"],
 	},
-	
 	{
-		"name": "Taipei",
-		"adjective": ["Taiwanese"],
-		"cityStateType": "Industrial",
-
-		"outerColor": [0,0,0],
-		"innerColor": [227,149,49],
-		"cities": ["Taipei"],
-	},
-	{
-		"name": "Singapore",
-		"adjective": ["Singaporean"],
-		"cityStateType": "Industrial",
-
-		"outerColor": [0,0,0],
-		"innerColor": [227,149,49],
-		"cities": ["Singapore"],
-	},
-	
-	{
-		"name": "Hong Kong",
-		"adjective": ["Hong Kong"],
-		"cityStateType": "Mercantile",
-
-		"outerColor": [0,0,0],
-		"innerColor": [255,216,0],
-		"cities": ["Hong Kong"],
-	},
-	{
-		"name": "Timbuktu",
-		"adjective": ["Malian"],
-		"startBias": ["Desert"],
-		"cityStateType": "Mercantile",
-
-		"outerColor": [0,0,0],
-		"innerColor": [255,216,0],
-		"cities": ["Timbuktu"],
-	},
-	
-	{
-		"name": "Akkad",
-		"adjective": ["Akkadian"],
-		"cityStateType": "Militaristic",
-
-		"outerColor": [0,0,0],
-		"innerColor": [255,0,0],
-		"cities": ["Akkad"],
-	},
-	{
-		"name": "Nassau",
-		"adjective": ["Bahamian"],
-		"startBias": ["Coast"],
-		"cityStateType": "Militaristic",
-
-		"outerColor": [0,0,0],
-		"innerColor": [255,0,0],
-		"cities": ["Nassau"],
-	},
-	
-	{
-		"name": "Florence",
-		"adjective": ["Florencian"],
-		"cityStateType": "Cultural",
-
-		"outerColor": [0,0,0],
-		"innerColor": [139,96,255],
-		"cities": ["Florence"],
-	},
-	{
-		"name": "Venice",
-		"adjective": ["Venetian"],
-		"cityStateType": "Cultural",
-
-		"outerColor": [0,0,0],
-		"innerColor": [139,96,255],
-		"cities": ["Venice"],
-	},
-	
-	{
-		"name": "Baghdad",
-		"adjective": ["Baghdad"],
-		"startBias": ["Desert"],
-		"cityStateType": "Scientific",
-
-		"outerColor": [0,0,0],
-		"innerColor": [0,0,255],
-		"cities": ["Baghdad"],
-	},
-	{
-		"name": "Mitlan",
-		"adjective": ["Mixtec"],
+		"name": "Mohenjo-Daro",
+		"adjective": ["Harappan"],
 		"startBias": ["Jungle"],
-		"cityStateType": "Scientific",
+		"cityStateType": "Agrarian",
 
 		"outerColor": [0,0,0],
-		"innerColor": [0,0,255],
-		"cities": ["Mitlan"],
+		"innerColor": [56,255,112],
+		"cities": ["Mohenjo-Daro"],
 	},
 
 	{
-		"name": "Jerusalem",
-		"adjective": ["Israeli"],
-		"cityStateType": "Religious",
+		"name": "Damascus",
+		"adjective": ["Syrian"],
+		"startBias": ["Avoid [Tundra]"],
+		"cityStateType": "Industrial",
 
 		"outerColor": [0,0,0],
-		"innerColor": [255,255,255],
-		"cities": ["Jerusalem"],
-	},
-	{
-		"name": "Vatican City",
-		"adjective": ["Vatican"],
-		"cityStateType": "Religious",
-
-		"outerColor": [0,0,0],
-		"innerColor": [255,255,255],
-		"cities": ["Vatican City"],
+		"innerColor": [200,200,200],
+		"cities": ["Damascus"],
 	}
 ]
