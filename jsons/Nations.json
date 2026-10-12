@@ -89,5 +89,16 @@
 		"outerColor": [0,0,0],
 		"innerColor": [255,215,0],
 		"cities": ["Zanzibar"],
+	},
+
+	{
+		"name": "Akkad",
+		"adjective": ["Akkadian"],
+		"startBias": ["River"],
+		"cityStateType": "Militaristic",
+
+		"outerColor": [0,0,0],
+		"innerColor": [255,0,0],
+		"cities": ["Akkad"],
 	}
 ]
