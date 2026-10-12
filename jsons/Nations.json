@@ -81,7 +81,7 @@
 	
 	{
 		"name": "Florence",
-		"adjective": ["Latin"],
+		"adjective": ["Florencian"],
 		"cityStateType": "Cultural",
 
 		"outerColor": [0,0,0],
@@ -101,11 +101,22 @@
 	{
 		"name": "Baghdad",
 		"adjective": ["Baghdad"],
+		"startBias": ["Desert"],
 		"cityStateType": "Scientific",
 
 		"outerColor": [0,0,0],
 		"innerColor": [0,0,255],
 		"cities": ["Baghdad"],
+	},
+	{
+		"name": "Mitlan",
+		"adjective": ["Mixtec"],
+		"startBias": ["Jungle"],
+		"cityStateType": "Scientific",
+
+		"outerColor": [0,0,0],
+		"innerColor": [0,0,255],
+		"cities": ["Mitlan"],
 	},
 
 	{
@@ -116,5 +127,14 @@
 		"outerColor": [0,0,0],
 		"innerColor": [255,255,255],
 		"cities": ["Jerusalem"],
+	},
+	{
+		"name": "Vatican City",
+		"adjective": ["Vatican"],
+		"cityStateType": "Religious",
+
+		"outerColor": [0,0,0],
+		"innerColor": [255,255,255],
+		"cities": ["Vatican City"],
 	}
 ]
