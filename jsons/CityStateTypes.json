@@ -25,9 +25,20 @@
             "[+10]% [Gold] [in all cities]"
         ],
         "allyBonusUniques": [
-            "[+15]% [Gold] [in all cities]"
+            "[+10]% [Gold] [in all cities]",
+            "Provides a unique Luxury"
         ],
         "color": [255,215,0]
+    },
+    {
+        "name": "Militaristic",
+        "friendBonusUniques": [
+            "Provides military units every ≈[18] turns"
+        ],
+        "allyBonusUniques": [
+            "Provides military units every ≈[9] turns"
+        ],
+        "color": [255,0,0]
     },
     {
         "name": "Cultural",
