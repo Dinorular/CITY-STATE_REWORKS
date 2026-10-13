@@ -120,5 +120,34 @@
 		"outerColor": [0,0,0],
 		"innerColor": [255,0,0],
 		"cities": ["Nassau"],
+	},
+
+	{
+		"name": "Florence",
+		"adjective": ["Florencian"],
+		"cityStateType": "Cultural",
+
+		"outerColor": [0,0,0],
+		"innerColor": [160,32,240],
+		"cities": ["Florence"],
+	},
+	{
+		"name": "Knossos",
+		"adjective": ["Minoan"],
+		"cityStateType": "Cultural",
+
+		"outerColor": [0,0,0],
+		"innerColor": [160,32,240],
+		"cities": ["Knossos"],
+	},
+	{
+		"name": "Taxila",
+		"adjective": ["Pakistani"],
+		"startBias": ["Grassland"],
+		"cityStateType": "Cultural",
+
+		"outerColor": [0,0,0],
+		"innerColor": [160,32,240],
+		"cities": ["Taxila"],
 	}
 ]
