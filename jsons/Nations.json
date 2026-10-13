@@ -63,7 +63,7 @@
 	{
 		"name": "Hong Kong",
 		"adjective": ["Hong Kong"],
-		"startBias": ["Flood plains"],
+		"startBias": ["River"],
 		"cityStateType": "Mercantile",
 
 		"outerColor": [0,0,0],
@@ -94,7 +94,7 @@
 	{
 		"name": "Akkad",
 		"adjective": ["Akkadian"],
-		"startBias": ["River"],
+		"startBias": ["Flood plains"],
 		"cityStateType": "Militaristic",
 
 		"outerColor": [0,0,0],
@@ -149,5 +149,72 @@
 		"outerColor": [0,0,0],
 		"innerColor": [160,32,240],
 		"cities": ["Taxila"],
+	},
+
+	{
+		"name": "Baghdad",
+		"adjective": ["Iraqi"],
+		"cityStateType": "Scientific",
+
+		"outerColor": [0,0,0],
+		"innerColor": [0,0,255],
+		"cities": ["Baghdad"],
+	},
+	{
+		"name": "Geneva",
+		"adjective": ["Genevan"],
+		"startBias": ["Hill"],
+		"cityStateType": "Scientific",
+
+		"outerColor": [0,0,0],
+		"innerColor": [0,0,255],
+		"cities": ["Geneva"],
+	},
+	{
+		"name": "Venice",
+		"adjective": ["Venetian"],
+		"cityStateType": "Scientific",
+
+		"outerColor": [0,0,0],
+		"innerColor": [0,0,255],
+		"cities": ["Venice"],
+	},
+
+	{
+		"name": "Jerusalem",
+		"adjective": ["Israeli"],
+		"cityStateType": "Religious",
+
+		"outerColor": [0,0,0],
+		"innerColor": [255,255,255],
+		"cities": ["Jerusalem"],
+	},
+	{
+		"name": "Medina",
+		"adjective": ["Ansar"]
+		"cityStateType": "Religious",
+
+		"outerColor": [0,0,0],
+		"innerColor": [255,255,255],
+		"cities": ["Medina"],
+	},
+	{
+		"name": "Lhasa",
+		"adjective": ["Tibetan"],
+		"startBias": ["Hill"],
+		"cityStateType": "Religious",
+
+		"outerColor": [0,0,0],
+		"innerColor": [255,255,255],
+		"cities": ["Lhasa"],
+	},
+	{
+		"name": "Vatican City",
+		"adjective": ["Vatican"],
+		"cityStateType": "Religious",
+
+		"outerColor": [0,0,0],
+		"innerColor": [255,255,255],
+		"cities": ["Vatican City"],
 	}
 ]
